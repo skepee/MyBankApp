@@ -1,0 +1,6 @@
+C:\Users\MARCE\source\repos\MyBankApp\Database\bin\Debug\Database.dacpac
+C:\Users\MARCE\source\repos\MyBankApp\Database\bin\Debug\Database.dll
+C:\Users\MARCE\source\repos\MyBankApp\Database\bin\Debug\Database.pdb
+C:\Users\MARCE\source\repos\MyBankApp\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\MARCE\source\repos\MyBankApp\Database\obj\Debug\Database.dll
+C:\Users\MARCE\source\repos\MyBankApp\Database\obj\Debug\Database.pdb
